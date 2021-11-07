@@ -22,6 +22,7 @@ L'ajout d'une variable d'environnement n'est pas compliqué:
 - réduction de la rétraction avec l'extrudeur volant (PTFE plus court)
 - README peaufiné
 - modification M701, M702 : la vitesse de retrait / insertion était trop rapide (100mm/s), maintenant de 35mm/s
+- le parametre default_arameter n'est plus supporté => mise à jour des macros qui utilisaient ce paramètre
 
 ## On résume:
 Récupérer le dépôt:
